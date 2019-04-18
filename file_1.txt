@@ -2,4 +2,7 @@ This month is April
 This Sunday is Easter!
 Today is Thursday
 Tomorrow is Friday
+test1
+test2
+test3
 And the Weekend is here!
